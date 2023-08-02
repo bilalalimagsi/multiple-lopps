@@ -1,0 +1,31 @@
+body{
+    display: block
+    background-size: cover;
+background-color: steelblue;
+}
+#first{
+    border: 5px solid black;
+    display: block;
+    margin: 10px;
+    text-align: center;
+    padding: 19px;
+    padding-bottom: 37px;
+    border-top-left-radius: 100px;
+    border-top-right-radius:100px ;
+    background-color: rgb(245, 210, 165);
+}
+#second{
+    border: 5px solid black;
+    display:block;
+    margin: 10px;
+    text-align: center;
+    padding: 19px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius:100px ;
+    padding-bottom: 37px;
+    background-color: rgb(145, 189, 247);
+}
+#showhere{
+    border: 12px solid black;
+    border-style: dotted;
+}
